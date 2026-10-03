@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Aditya
 
-<!--
-**aditya-kal-cs/aditya-kal-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science and Engineering student with a focus on sustainable technology,
+electric vehicles and motorsport analytics.
 
-Here are some ideas to get you started:
+## Skills
+Python · C · JavaScript · HTML · CSS · NumPy · C++ · Machine learning basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning
+pandas · APIs · Git and GitHub
+
+## Interests
+EV economics · Formula 1 telemetry · clean mobility
+
+## Connect
+LinkedIn: https://www.linkedin.com/in/aditya-kalawatia-448296375/
